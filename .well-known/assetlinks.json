@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.beleyk0.twa",
+        "sha256_cert_fingerprints": ["FF:82:D2:76:3B:9C:2E:69:0E:0F:8A:FE:30:54:33:87:8B:EC:C4:C6:30:4D:7D:17:46:0C:73:F7:CA:F0:5B:01"]
+      }
+    }]
